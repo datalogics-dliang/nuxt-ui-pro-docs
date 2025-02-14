@@ -40,7 +40,7 @@ export default defineNuxtConfig({
 
   icon: {
     provider: 'iconify'
-  }
+  },
 
   content: {
     preview: {
